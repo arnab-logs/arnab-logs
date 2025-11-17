@@ -19,7 +19,7 @@ I document my learning journey and hands-on experiments in my repositories, maki
 📫 How to reach me:  
 - Hashnode: [arnab_logs](https://learning-out-loud-my-devops-journey.hashnode.dev) – I write… sometimes when inspiration (or curiosity) strikes.
 - LinkedIn: [Arnab Nandi](https://linkedin.com/in/arnab-nandi-55232a236/)  – I learn… mostly from other brilliant minds and quietly cheer them on  
-- GitHub: [@arnab-logs](https://github.com/ArnabNandi) I build… and occasionally break things just to learn.
+- GitHub: [@arnab-logs](https://github.com/ArnabNandi) - I build… and occasionally break things just to learn.
 
 
 # 💻 Tech Stack:
