@@ -17,7 +17,7 @@ I am currently focused on **hands-on projects**, learning how to contribute to *
 I document my learning journey and hands-on experiments in my repositories, making it easier for me (and anyone interested) to follow along.  
 
 📫 How to reach me:  
-- Hashnode: [arnab_logs](https://learning-out-loud-my-devops-journey.hashnode.dev) – I write… sometimes when curiosity hits.
+- Hashnode: [arnab_logs](https://learning-out-loud-my-devops-journey.hashnode.dev) – I write… sometimes when inspiration (or curiosity) strikes.
 - LinkedIn: [Arnab Nandi](https://linkedin.com/in/arnab-nandi-55232a236/)  – I learn… mostly from other brilliant minds and quietly cheer on brilliant people.   
 - GitHub: [@arnab-logs](https://github.com/ArnabNandi) I build… and occasionally break things just to learn.
 
