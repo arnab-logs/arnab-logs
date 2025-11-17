@@ -1,22 +1,25 @@
 # Hi, I'm Arnab ✨
 
-Self-taught **DevOps explorer**, building in public. I share my real-time progress, roadblocks, and the occasional “aha!” moments. Hoping my notes and experiments help someone else feel less stuck.
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-> "Stop waiting to feel ready, stop waiting for the perfect moment — start messy, start scared, and start before you feel qualified."  
+I am someone who is passionate about **DevOps and open source**. 
 
-🌱 On this journey, I dive into **Kubernetes, Docker, CI/CD pipelines, and DevSecOps**, learning by doing and documenting every step. Every bug, crash, or error is just another story waiting to be told.  
+Being naturally inquisitive, I am deeply fascinated by Kubernetes, something that’s taken multiple people, from multiple countries, multiple years to build. 
 
-💻 Currently, I am exploring:  
-- **Kubernetes:** Deployments, Services, Ingress, and cluster networking.  
-- **Docker:** Containerizing applications and building multi-container setups.  
-- **CI/CD & DevSecOps:** Git, Jenkins, SonarQube, Trivy, and automation pipelines.  
+I hope to one day contribute meaningfully to it, while learning and growing along the way. 
+
+I try to live by this philosophy:
+
+> "Stop waiting to feel ready, stop waiting for the perfect moment - start messy, start scared, and start before you feel qualified."
+
+I am currently focused on **hands-on projects**, learning how to contribute to **open source**, and exploring anything that piques my curiosity: from technical blogs and KubeCon talks to practical experiments that help me understand systems better. 
 
 I document my learning journey and hands-on experiments in my repositories, making it easier for me (and anyone interested) to follow along.  
 
 📫 How to reach me:  
-- Hashnode: [arnab_logs](https://learning-out-loud-my-devops-journey.hashnode.dev)  
-- LinkedIn: [Arnab Nandi](https://linkedin.com/in/arnab-nandi-55232a236/)  
-- GitHub: [@arnab-logs](https://github.com/ArnabNandi)
+- Hashnode: [arnab_logs](https://learning-out-loud-my-devops-journey.hashnode.dev) – I write… sometimes when curiosity hits.
+- LinkedIn: [Arnab Nandi](https://linkedin.com/in/arnab-nandi-55232a236/)  – I learn… mostly from other brilliant minds and quietly cheer on brilliant people.   
+- GitHub: [@arnab-logs](https://github.com/ArnabNandi) I build… and occasionally break things just to learn.
 
 
 # 💻 Tech Stack:
@@ -25,9 +28,6 @@ I document my learning journey and hands-on experiments in my repositories, maki
 ![](https://github-readme-stats.vercel.app/api?username=arnab-logs&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arnab-logs&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnab-logs&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-###
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arnab-logs&icon=0&color=0)](https://visitcount.itsvg.in)
