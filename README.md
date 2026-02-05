@@ -4,7 +4,7 @@
 
 I am someone who is passionate about **DevOps and open source**. 
 
-Being naturally inquisitive, I am deeply fascinated by Kubernetes, something that’s taken multiple people, from multiple countries, multiple years to build. 
+Being naturally inquisitive, I am deeply fascinated by **Kubernetes**, something that’s taken multiple people, from multiple countries, multiple years to build. 
 
 I hope to one day contribute meaningfully to it, while learning and growing along the way. 
 
@@ -12,7 +12,7 @@ I try to live by this philosophy:
 
 > "Stop waiting to feel ready, stop waiting for the perfect moment - start messy, start scared, and start before you feel qualified."
 
-I am currently focused on **hands-on projects**, learning how to contribute to **open source**, and exploring anything that piques my curiosity: from technical blogs and KubeCon talks to practical experiments that help me understand systems better. 
+I am currently focused on contributing to a **Kubernetes subproject** (i.e. [node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)), learning about **open source** and exploring anything that piques my curiosity: from technical blogs and KubeCon talks to practical experiments that help me understand systems better. 
 
 I document my learning journey and hands-on experiments in my repositories, making it easier for me (and anyone interested) to follow along.  
 
