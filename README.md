@@ -23,9 +23,9 @@ I document my learning journey and hands-on experiments in my repositories, maki
 
 # 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#188](https://github.com/kubernetes-sigs/node-readiness-controller/issues/188#issuecomment-4361595051) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
-2. 💪 Opened PR [#22924](https://github.com/kubernetes/minikube/pull/22924) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-3. ℹ️ Labeled issue [#6166](https://github.com/kubernetes/org/issues/6166) in [kubernetes/org](https://github.com/kubernetes/org)
+1. 🗣 Commented on [#8882](https://github.com/kubernetes/community/pull/8882#issuecomment-4529717155) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 🗣 Commented on [#188](https://github.com/kubernetes-sigs/node-readiness-controller/issues/188#issuecomment-4361595051) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
+3. 💪 Opened PR [#22924](https://github.com/kubernetes/minikube/pull/22924) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
 4. ❗ Opened issue [#6166](https://github.com/kubernetes/org/issues/6166) in [kubernetes/org](https://github.com/kubernetes/org)
 5. 🗣 Commented on [#8439](https://github.com/kubernetes/community/issues/8439#issuecomment-3957952576) in [kubernetes/community](https://github.com/kubernetes/community)
 <!--END_SECTION:activity-->
