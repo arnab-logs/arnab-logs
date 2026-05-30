@@ -23,11 +23,11 @@ I document my learning journey and hands-on experiments in my repositories, maki
 
 # 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/kubernetes-sigs/node-readiness-controller/issues/121#issuecomment-4560774296) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
-2. 🗣 Commented on [#8882](https://github.com/kubernetes/community/pull/8882#issuecomment-4529717155) in [kubernetes/community](https://github.com/kubernetes/community)
-3. 🗣 Commented on [#188](https://github.com/kubernetes-sigs/node-readiness-controller/issues/188#issuecomment-4361595051) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
-4. 💪 Opened PR [#22924](https://github.com/kubernetes/minikube/pull/22924) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-5. 🗣 Commented on [#8439](https://github.com/kubernetes/community/issues/8439#issuecomment-3957952576) in [kubernetes/community](https://github.com/kubernetes/community)
+1. 🎉 Merged PR [#8882](https://github.com/kubernetes/community/pull/8882) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 🗣 Commented on [#121](https://github.com/kubernetes-sigs/node-readiness-controller/issues/121#issuecomment-4560774296) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
+3. 🗣 Commented on [#8882](https://github.com/kubernetes/community/pull/8882#issuecomment-4529717155) in [kubernetes/community](https://github.com/kubernetes/community)
+4. 🗣 Commented on [#188](https://github.com/kubernetes-sigs/node-readiness-controller/issues/188#issuecomment-4361595051) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
+5. 💪 Opened PR [#22924](https://github.com/kubernetes/minikube/pull/22924) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
 <!--END_SECTION:activity-->
 
 # 💻 Tech Stack:
