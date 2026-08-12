@@ -23,11 +23,11 @@ I document my learning journey and hands-on experiments in my repositories, maki
 
 # 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#364](https://github.com/kubernetes-sigs/node-readiness-controller/pull/364#issuecomment-5230877957) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
-2. 🗣 Commented on [#365](https://github.com/kubernetes-sigs/node-readiness-controller/pull/365#issuecomment-5216273474) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
-3. 💪 Opened PR [#365](https://github.com/kubernetes-sigs/node-readiness-controller/pull/365) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
-4. 🎉 Merged PR [#314](https://github.com/kubernetes-sigs/node-readiness-controller/pull/314) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
-5. 🗣 Commented on [#188](https://github.com/kubernetes-sigs/node-readiness-controller/issues/188#issuecomment-5149969415) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
+1. 🗣 Commented on [#9092](https://github.com/kubernetes/community/issues/9092#issuecomment-5251946350) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 🗣 Commented on [#364](https://github.com/kubernetes-sigs/node-readiness-controller/pull/364#issuecomment-5230877957) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
+3. 🗣 Commented on [#365](https://github.com/kubernetes-sigs/node-readiness-controller/pull/365#issuecomment-5216273474) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
+4. 💪 Opened PR [#365](https://github.com/kubernetes-sigs/node-readiness-controller/pull/365) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
+5. 🎉 Merged PR [#314](https://github.com/kubernetes-sigs/node-readiness-controller/pull/314) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
 <!--END_SECTION:activity-->
 
 # 💻 Tech Stack:
