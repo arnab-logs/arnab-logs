@@ -18,9 +18,9 @@ I document my learning journey and hands-on experiments in my repositories, maki
 
 # 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#493](https://github.com/kubernetes-sigs/node-readiness-controller/pull/493#issuecomment-6111673114) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
-2. 💪 Opened PR [#493](https://github.com/kubernetes-sigs/node-readiness-controller/pull/493) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
-3. 🎉 Merged PR [#365](https://github.com/kubernetes-sigs/node-readiness-controller/pull/365) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
+1. 🗣 Commented on [#188](https://github.com/kubernetes-sigs/node-readiness-controller/issues/188#issuecomment-6542079099) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
+2. 🗣 Commented on [#493](https://github.com/kubernetes-sigs/node-readiness-controller/pull/493#issuecomment-6111673114) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
+3. 💪 Opened PR [#493](https://github.com/kubernetes-sigs/node-readiness-controller/pull/493) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
 4. 🗣 Commented on [#489](https://github.com/kubernetes-sigs/node-readiness-controller/pull/489#issuecomment-5917551976) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
 5. 💪 Opened PR [#489](https://github.com/kubernetes-sigs/node-readiness-controller/pull/489) in [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller)
 <!--END_SECTION:activity-->
